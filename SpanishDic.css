@@ -11,7 +11,6 @@
  .fl-fourth-translation, .social-small {
  	display: none;
  }
-
  .ad-widget, .footer-wrapper {
  	display: none !important;
  }
@@ -31,16 +30,21 @@
  span, h1, td, div, .vtable-label {
  	color: #F8F8F2;
  }
-
- /* Search suggestion hover (nepal) */
+ 
+/* Search suggestion hover (nepal) */
  .input-table-suggestion:hover {
  	background: #8eb1bc;
  }
 
  /* Links (spray) */
- a {
+ li a, h3 a, .heading2-anchor, .ques a, em a, em ~ a, 
+ small a {
  	color: #66D9EF !important;
  }
+/* Active (st tropaz) ( */
+li.last.active a {
+	color: #295f8f !important;
+}
 
  /* (silver chalice) */
  .conj-basic-label {
