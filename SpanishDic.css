@@ -7,10 +7,11 @@
  .sidebar-container, .adTop,
  .feedback-tab, .home-articles,
  .home-fluencia, .home-fluencia-variation2,
- #feedback-query, .adContent, .sd-ad-container {
+ #feedback-query, .adContent, .sd-ad-container,
+ .fl-fourth-translation {
  	display: none;
  }
- 
+
  .ad-widget, .footer-wrapper {
  	display: none !important;
  }
