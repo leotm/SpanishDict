@@ -32,6 +32,11 @@
  	color: #F8F8F2;
  }
 
+ /* Search suggestion hover (nepal) */
+ .input-table-suggestion:hover {
+ 	background: #8eb1bc;
+ }
+
  /* Links (spray) */
  a {
  	color: #66D9EF !important;
