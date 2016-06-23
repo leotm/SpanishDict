@@ -24,7 +24,7 @@
  /* Site bg (heavy metal) */
  *, .menu-selector, .header-wrapper, .card, .menu, .nav-content,
  .search-form-parts {
- 	background: #272822 !important;
+ 	background: #272822;
  }
 
  /* Site text (athens gray) */
