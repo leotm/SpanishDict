@@ -1,3 +1,4 @@
+@-moz-document url-prefix("http://www.spanishdict.com/") {
 /**
  * SpanishDict Sublime Theme v1.1.4 (23/06/2016)
  * License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -71,3 +72,4 @@ li.last.active a {
  .megaexamples-highlight {
  	color: #A6E22E;
  }
+}
