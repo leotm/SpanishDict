@@ -60,6 +60,9 @@
  	li.last.active a {
  		color: #295f8f !important;
  	}
+ 	.nav-content-item.nav-active .nav-content-item-text {
+ 		border-bottom: 3px solid #66D9EF;
+ 	}
 
  	/* (silver chalice) */
  	.conj-basic-label {
