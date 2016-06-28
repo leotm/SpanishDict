@@ -52,8 +52,8 @@
  }
 
  /* Links (spray) */
- li a, h3 a, .heading2-anchor, .ques a, em a, em ~ a, 
- small a {
+ li > a, h3 > a, .heading2-anchor, .ques a, em > a, em ~ a, 
+ small > a, .el > a, .search-history-items > a {
  	color: #66D9EF !important;
  }
  /* active (st tropaz) ( */
