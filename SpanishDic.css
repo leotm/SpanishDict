@@ -87,3 +87,9 @@
  		color: #A6E22E;
  		background: none;
  	}
+ 	
+ 	/* Paigination number */
+ 	.megaexamples-page-active {
+ 		color: #272822;
+ 	}
+ }
