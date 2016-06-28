@@ -56,31 +56,31 @@
  small a {
  	color: #66D9EF !important;
  }
-/* Active (st tropaz) ( */
-li.last.active a {
-	color: #295f8f !important;
-}
+ /* active (st tropaz) ( */
+ 	li.last.active a {
+ 		color: #295f8f !important;
+ 	}
 
- /* (silver chalice) */
- .conj-basic-label {
- 	color: #a5a5a5 !important;
- }
+ 	/* (silver chalice) */
+ 	.conj-basic-label {
+ 		color: #a5a5a5 !important;
+ 	}
 
- /* Table labels (radical red) */
- .vtable-label {
- 	color: #F92672 !important;
- }
+ 	/* Table labels (radical red) */
+ 	.vtable-label {
+ 		color: #F92672 !important;
+ 	}
 
- /* Table headings & examples (heliotrope) */
- .vtable-title-link {
- 	color: #AE81FF !important;
- }
+ 	/* Table headings & examples (heliotrope) */
+ 	.vtable-title-link {
+ 		color: #AE81FF !important;
+ 	}
 
- /* Conj. subject (chenin) */
- .vtable-pronoun {
- 	font-style: italic;
- 	color: #E6DB74 !important;
- }
+ 	/* Conj. subject (chenin) */
+ 	.vtable-pronoun {
+ 		font-style: italic;
+ 		color: #E6DB74 !important;
+ 	}
 
  /* Example highlited word (pear) */
  .megaexamples-highlight {
