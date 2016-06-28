@@ -38,8 +38,10 @@
  	color: #F8F8F2;
  }
  
-/* Search suggestion hover (nepal) */
- .input-table-suggestion:hover {
+ /* Hover bg (nepal) */
+ .input-table-suggestion:hover,
+ .input-table-suggestion.selected,
+ .vtable tr:hover td {
  	background: #8eb1bc;
  }
 
