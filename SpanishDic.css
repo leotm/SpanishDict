@@ -47,6 +47,9 @@
  .vtable tr:hover a.vtable-title-link {
  	color: #8b4dff !important;
  }
+ .icon-question-mark {
+ 	display: none;
+ }
 
  /* Links (spray) */
  li a, h3 a, .heading2-anchor, .ques a, em a, em ~ a, 
