@@ -22,9 +22,15 @@
  }
 
  /* Site bg (heavy metal) */
- body, .menu-selector, .header-wrapper, .card, .menu, .nav-content,
- .search-form-parts {
+ body, .menu-selector, .header-wrapper, .menu, .nav-content,
+ .search-form-parts, .input-table-suggestion {
  	background: #272822;
+ }
+ 
+ /* Lighter bg (kelp) */
+ .post-block.reference blockquote, .card,
+ #query, .nav-content {
+ 	background: #36372f;
  }
 
  /* Site text (athens gray) */
