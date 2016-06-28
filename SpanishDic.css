@@ -82,8 +82,8 @@
  		color: #E6DB74 !important;
  	}
 
- /* Example highlited word (pear) */
- .megaexamples-highlight {
- 	color: #A6E22E;
- }
-}
+ 	/* Example highlited word (pear) */
+ 	.megaexamples-highlight {
+ 		color: #A6E22E;
+ 		background: none;
+ 	}
