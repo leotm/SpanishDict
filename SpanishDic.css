@@ -89,7 +89,7 @@
  	}
  	
  	/* Paigination number */
- 	.megaexamples-page-active {
- 		color: #272822;
+ 	.megaexamples-page-active, .pagination > ul > li.active > a {
+ 		color: #272822 !important;
  	}
  }
